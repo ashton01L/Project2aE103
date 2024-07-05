@@ -5,14 +5,21 @@
 
 # unfinished
 
+def average(numbers):
+    total = sum(numbers)
+    avg = total / len(numbers)
+    return avg
+
 print("Please enter five numbers:")
-num1 = input()
-num2 = input()
-num3 = input()
-num4 = input()
-num5 = input()
+numbers = []
+for i in range(5):
+    while True:
+        try:
+            num = float(input())
+            numbers.append(num)
+            break
+        except ValueError:
+            print("Invalid input. Please enter a valid integer.")
 
-inpList = [num1, num2, num3, num4, num5]
-average = sum(inpList)/len(inpList)
-
-print(average)
+result = average(numbers)
+print("The average of those numbers is: ", result)
