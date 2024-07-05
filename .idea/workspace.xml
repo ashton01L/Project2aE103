@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faa5874b-a7f1-4df0-8932-91f804c8c599" name="Changes" comment="defined a function, created a for loop to handle the input, adjusted to float instead of int and added a try/except to catch errors." />
+    <list default="true" id="faa5874b-a7f1-4df0-8932-91f804c8c599" name="Changes" comment="Corrections to spacing, final version fr">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/average.py" beforeDir="false" afterPath="$PROJECT_DIR$/average.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +16,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ioEv6m61Gy11z4E1gusSxLmv9T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.average.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.average.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +64,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720202287249</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="final version">
+      <option name="closed" value="true" />
+      <created>1720202612327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720202612327</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Corrections to spacing, final version fr">
+      <option name="closed" value="true" />
+      <created>1720207943078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720207943078</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +97,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created input request and variables for inputs, still working on average" />
     <MESSAGE value="defined a function, created a for loop to handle the input, adjusted to float instead of int and added a try/except to catch errors." />
-    <option name="LAST_COMMIT_MESSAGE" value="defined a function, created a for loop to handle the input, adjusted to float instead of int and added a try/except to catch errors." />
+    <MESSAGE value="final version" />
+    <MESSAGE value="Corrections to spacing, final version fr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections to spacing, final version fr" />
   </component>
 </project>
