@@ -3,8 +3,6 @@
 # Date: 7/4/2024
 # Description: Asks the user for five numbers and then prints out the average of those numbers.
 
-# unfinished
-
 def average(numbers):
     total = sum(numbers)
     avg = total / len(numbers)
