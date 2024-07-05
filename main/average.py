@@ -8,7 +8,7 @@ def average(numbers):
     avg = total / len(numbers)
     return avg
 
-print("Please enter five numbers:")
+print("Please enter five numbers.")
 numbers = []
 for i in range(5):
     while True:
@@ -20,4 +20,5 @@ for i in range(5):
             print("Invalid input. Please enter a valid integer.")
 
 result = average(numbers)
-print("The average of those numbers is: ", result)
+print("The average of those numbers is:")
+print(result)
